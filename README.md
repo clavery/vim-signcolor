@@ -22,7 +22,7 @@ Issues
 ------
 
 - Currently doesn't support other color representations (HSL, RBGA()), etc.
-- Only finds the first color on each line.
+- Sign symbol, etc should be configurable
 
 Similar Tools
 -------------
