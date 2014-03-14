@@ -3,7 +3,7 @@
 " Description: vim plugin to show RGB color values in the sign column
 " Maintainer:  Charles Lavery <charles.lavery@gmail.com>
 "              https://charleslavery.com
-" License:     BSD
+" License:     MIT
 " Notes:       This plugin requires both the 'signs' feature and a full color
 "              client. ie. It's mostly useful for gVim and macvim.
 "
