@@ -5,7 +5,9 @@ Vim plugin to show RBG color values (#FFFFFF or #FFF) from the current buffer in
 
 Requires:
 
-- VIM 7.x with 'signs' support. Recommended only for gVIM or MacVIM.
+- VIM 7.x with 'signs' support. Recommended only for gVIM or MacVIM
+
+![vim-signcolor screenshot](screenshot.png)
 
 Usage
 -----
