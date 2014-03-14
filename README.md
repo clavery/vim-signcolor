@@ -15,7 +15,7 @@ Usage
 Bind a key to the `signcolor#toggle_signs_for_colors_in_buffer()` function. The following binds it to `<leader>q` (in my case `,q`)
 
 ```vim
-nnoremap <leader>q :call signcolor#toggle_signs_for_colors_in_buffer()<CR>
+nnoremap <silent> <leader>q :call signcolor#toggle_signs_for_colors_in_buffer()<CR>
 ```
 
 Issues
