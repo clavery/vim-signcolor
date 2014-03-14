@@ -18,6 +18,8 @@ Bind a key to the `signcolor#toggle_signs_for_colors_in_buffer()` function. The 
 nnoremap <silent> <leader>q :call signcolor#toggle_signs_for_colors_in_buffer()<CR>
 ```
 
+Use said key to toggle (show/unshow) the colored signs.
+
 Issues
 ------
 
